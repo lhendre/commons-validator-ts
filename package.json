@@ -15,7 +15,7 @@
     "validator",
     "typescript"
   ],
-  "author": "Lucas Hendren",
+  "author": "Lucas Hendren lhendre2@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lhendre/commons-validator-ts/issues"
