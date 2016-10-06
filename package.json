@@ -1,0 +1,24 @@
+{
+  "name": "commons-validator-ts",
+  "version": "1.0.0",
+  "description": "Commons Validator for email based on Apache for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhendre/commons-validator-ts.git"
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "typescript"
+  ],
+  "author": "Lucas Hendren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhendre/commons-validator-ts/issues"
+  },
+  "homepage": "https://github.com/lhendre/commons-validator-ts#readme"
+}
